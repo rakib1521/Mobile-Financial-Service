@@ -35,4 +35,10 @@ Mobile Financial Service System is an unique way of transacting money in a safer
 ![Sreenshot](https://github.com/rakib1521/Mobile-Financial-Service/blob/main/screen%20shot/12.png)
 
 
+# Members
+
+
+* Rakib Hossian Rifat
+* Argha Shipan Sarker
+
 
